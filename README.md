@@ -10,8 +10,9 @@ process. Or just enough to get this to compile!
 
 NOTE! I use a three letter prefix to all of my systems and usually what it should be is obvious. In this 
 case there could be so many possibilities. So in the end I settled for HBR. 
+It is issued under the MIT License
 
-Issued:
+FILES:
 HBR.bat
 HBR.bhp
 HBR10.dbf
